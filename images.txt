@@ -1,4 +1,1 @@
-mysql
-nginx
-tomcat
-rabbitmq
+mysql:8.0.3
